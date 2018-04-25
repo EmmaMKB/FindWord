@@ -1,0 +1,3 @@
+The Main entry of the application is lancementjeu.py
+
+Word dictionnary is in french. You can add some words in dico.txt (One Word Per Line)
